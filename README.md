@@ -1,4 +1,4 @@
-# mnist_testdemo
+# 智能写诗
 
-使用flask在线演示mnist数据集训练的结果
+运用lstm等rnn技术进行自动写诗
 
